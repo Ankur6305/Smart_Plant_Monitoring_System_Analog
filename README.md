@@ -66,10 +66,4 @@ You can find system diagrams in the `/docs/schematics/` folder:
 
 We welcome designs, photos, and schematics of your own fully analog plant systems! You can submit a pull request or open an issue with your contribution idea.
 
-## 📄 License
 
-This project is open-source under the [MIT License](LICENSE).
-
----
-
-Made with simplicity and sustainability in mind 🌱
